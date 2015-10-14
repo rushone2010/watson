@@ -11,3 +11,4 @@ $ apm install watson
 <small>Alternatively, open Atom Preferences, select Themes > Search for </small>`watson`,<small>then Install.</small></br><small>Activate the theme by selecting the Themes section of Preferences.</small>
 
 <small>Inspiration; unity, seti-ui, chester.</small>
+<img src="https://i.imgur.com/CRODVYZ.jpg" alt="Screenshot" height="42%" width="42%">
